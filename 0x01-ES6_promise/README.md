@@ -107,7 +107,7 @@ export function createUser() {
 ```
 
 ### `.eslintrc.js`
-
+```
 module.exports = {
   env: {
     browser: false,
