@@ -166,7 +166,7 @@ Implement a class named `ClassRoom`:
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x02-ES6_classes`
-*   File: [0-classroom.js]()
+*   File: [0-classroom.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x02-ES6_classes/0-classroom.js)
 
 ### 1\. Let's make some classrooms
 
@@ -193,7 +193,7 @@ Implement a function named `initializeRooms`. It should return an array of 3 `Cl
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x02-ES6_classes`
-*   File: [1-make_classrooms.js]()
+*   File: [1-make_classrooms.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x02-ES6_classes/1-make_classrooms.js)
 
 ### 2\. A Course, Getters, and Setters
 
@@ -248,7 +248,7 @@ Implement a class named `HolbertonCourse`:
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x02-ES6_classes`
-*   File: [2-hbtn_course.js]()
+*   File: [2-hbtn_course.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x02-ES6_classes/2-hbtn_course.js)
 
 ### 3\. Methods, static methods, computed methods names..... MONEY
 
@@ -277,7 +277,7 @@ Implement a class named `Currency`:
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x02-ES6_classes`
-*   File: [3-currency.js]()
+*   File: [3-currency.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x02-ES6_classes/3-currency.js)
 
 ### 4\. Pricing
 
@@ -315,7 +315,7 @@ Implement a class named `Pricing`:
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x02-ES6_classes`
-*   File: [4-pricing.js]()
+*   File: [4-pricing.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x02-ES6_classes/4-pricing.js)
 
 ### 5\. A Building
 
@@ -355,7 +355,7 @@ Implement a class named `Building`:
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x02-ES6_classes`
-*   File: [5-building.js]()
+*   File: [5-building.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x02-ES6_classes/5-building.js)
 
 ### 6\. Inheritance
 
@@ -390,7 +390,7 @@ Implement a class named `SkyHighBuilding` that extends from `Building`:
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x02-ES6_classes`
-*   File: [6-sky_high.js]()
+*   File: [6-sky_high.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x02-ES6_classes/6-sky_high.js)
 
 ### 7\. Airport
 
@@ -420,7 +420,7 @@ Implement a class named `Airport`:
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x02-ES6_classes`
-*   File: [7-airport.js]()
+*   File: [7-airport.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x02-ES6_classes/7-airport.js)
 
 ### 8\. Primitive - Holberton Class
 
@@ -451,7 +451,7 @@ Implement a class named `HolbertonClass`:
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x02-ES6_classes`
-*   File: [8-hbtn_class.js]()
+*   File: [8-hbtn_class.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x02-ES6_classes/8-hbtn_class.js)
 
 ### 9\. Hoisting
 
@@ -563,7 +563,7 @@ Result:
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x02-ES6_classes`
-*   File: [9-hoisting.js]()
+*   File: [9-hoisting.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x02-ES6_classes/9-hoisting.js)
 
 ### 10\. Vroom
 
@@ -608,7 +608,7 @@ Hint: Symbols in ES6
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x02-ES6_classes`
-*   File: [10-car.js]()
+*   File: [10-car.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x02-ES6_classes/10-car.js)
 
 ### 11\. EVCar
 
@@ -649,7 +649,7 @@ Implement a class named `EVCar` that extends the `Car` class:
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x02-ES6_classes`
-*   File: [100-evcar.js]()
+*   File: [100-evcar.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x02-ES6_classes/100-evcar.js)
 
 ## Credits
 
