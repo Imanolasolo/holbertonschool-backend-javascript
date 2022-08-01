@@ -566,7 +566,7 @@ When the number of queries is >= 5 throw an error with the message `Endpoint loa
 *   Directory: `0x03-ES6_data_manipulation`
 *   File: [100-weak.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/100-weak.js)
 
-## Credits
+## Credits.
 
 ## Author(s):blue_book:
 
