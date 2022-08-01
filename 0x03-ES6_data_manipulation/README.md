@@ -173,7 +173,7 @@ The array contains the following students in order:
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File: [0-get_list_students.js]()
+*   File: [0-get_list_students.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/0-get_list_students.js)
 
 ### 1\. More mapping
 
@@ -203,7 +203,7 @@ You must use the `map` function on the array.
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File: [1-get_list_student_ids.js]()
+*   File: [1-get_list_student_ids.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/1-get_list_student_ids.js)
 
 ### 2\. Filter
 
@@ -234,7 +234,7 @@ You must use the `filter` function on the array.
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File: [2-get_students_by_loc.js]()
+*   File: [2-get_students_by_loc.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/2-get_students_by_loc.js)
 
 ### 3\. Reduce
 
@@ -263,7 +263,7 @@ You must use the `reduce` function on the array.
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File: [3-get_ids_sum.js]()
+*   File: [3-get_ids_sum.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/3-get_ids_sum.js)
 
 ### 4\. Combine
 
@@ -318,7 +318,7 @@ You must use `filter` and `map` combined.
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File: [4-update_grade_by_city.js]()
+*   File: [4-update_grade_by_city.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/4-update_grade_by_city.js)
 
 ### 5\. Typed Arrays
 
@@ -350,7 +350,7 @@ If adding the value is not possible the error `Position outside range` should be
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File: [5-typed_arrays.js]()
+*   File: [5-typed_arrays.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/5-typed_arrays.js)
 
 ### 6\. Set data structure
 
@@ -373,7 +373,7 @@ It accepts an argument (Array, of any kind of element).
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File: [6-set.js]()
+*   File: [6-set.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/6-set.js)
 
 ### 7\. More set data structure
 
@@ -400,7 +400,7 @@ It accepts two arguments: a `set` (Set) and an `array` (Array).
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File:[7-has_array_values.js]()
+*   File:[7-has_array_values.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/7-has_array_values.js)
 
 ### 8\. Clean set
 
@@ -436,7 +436,7 @@ When a value starts with `startString` you only append the rest of the string. T
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File: [8-clean_set.js]()
+*   File: [8-clean_set.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/8-clean_set.js)
 
 ### 9\. Map data structure
 
@@ -472,7 +472,7 @@ Result:
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File: [9-groceries_list.js]()
+*   File: [9-groceries_list.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/9-groceries_list.js)
 
 ### 10\. More map data structure
 
@@ -515,7 +515,7 @@ For each entry of the map where the quantity is 1, update the quantity to 100. I
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File: [10-update_uniq_items.js]()
+*   File: [10-update_uniq_items.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/10-update_uniq_items.js)
 
 ### 11\. Weak link data structure
 
@@ -564,7 +564,7 @@ When the number of queries is >= 5 throw an error with the message `Endpoint loa
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File: [100-weak.js]()
+*   File: [100-weak.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/100-weak.js)
 
 ## Credits
 
