@@ -168,7 +168,7 @@ In the file `0-console.js`, create a function named `displayMessage` that prints
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x05-Node_JS_basic`
-*   File: [0-console.js]()
+*   File: [0-console.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x05-Node_JS_basic/0-console.js)
 
 ### 1\. Using Process stdin
 
@@ -199,7 +199,7 @@ Create a program named `1-stdin.js` that will be executed through command line:
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x05-Node_JS_basic`
-*   File: [1-stdin.js]()
+*   File: [1-stdin.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x05-Node_JS_basic/1-stdin.js)
 
 ### 2\. Reading a file synchronously with Node JS
 
@@ -241,7 +241,7 @@ Using the database `database.csv` (provided in project description), create a fu
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x05-Node_JS_basic`
-*   File: [2-read_file.js]()
+*   File: [2-read_file.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x05-Node_JS_basic/2-read_file.js)
 
 ### 3\. Reading a file asynchronously with Node JS
 
@@ -299,7 +299,7 @@ Using the database `database.csv` (provided in project description), create a fu
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x05-Node_JS_basic`
-*   File: [3-read_file_async.js]()
+*   File: [3-read_file_async.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x05-Node_JS_basic/3-read_file_async.js)
 
 ### 4\. Create a small HTTP server using Node's HTTP module
 
@@ -329,7 +329,7 @@ In terminal 2:
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x05-Node_JS_basic`
-*   File: [4-http.js]()
+*   File: [4-http.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x05-Node_JS_basic/4-http.js)
 
 ### 5\. Create a more complex HTTP server using Node's HTTP module
 
@@ -365,7 +365,7 @@ In terminal 2:
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x05-Node_JS_basic`
-*   File: [5-http.js]()
+*   File: [5-http.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x05-Node_JS_basic/5-http.js)
 
 ### 6\. Create a small HTTP server using Express
 
@@ -404,7 +404,7 @@ In terminal 2:
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x05-Node_JS_basic`
-*   File: [6-http_express.js]()
+*   File: [6-http_express.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x05-Node_JS_basic/6-http_express.js)
 
 ### 7\. Create a more complex HTTP server using Express
 
@@ -440,7 +440,7 @@ In terminal 2:
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x05-Node_JS_basic`
-*   File: [7-http_express.js]()
+*   File: [7-http_express.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x05-Node_JS_basic/7-http_express.js)
 
 ### 8\. Organize a complex HTTP server using Express
 
@@ -557,7 +557,7 @@ Click to show/hide file contents
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x05-Node_JS_basic`
-*   File: [full_server/utils.js]() [full_server/controllers/AppController.js]() [full_server/controllers/StudentsController.js]()  [full_server/routes/index.js]() [full_server/server.js]()
+*   File: [full_server/utils.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x05-Node_JS_basic/full_server/utils.js) [full_server/controllers/AppController.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x05-Node_JS_basic/full_server/controllers/AppController.js) [full_server/controllers/StudentsController.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x05-Node_JS_basic/full_server/controllers/StudentsController.js)  [full_server/routes/index.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x05-Node_JS_basic/full_server/routes/index.js) [full_server/server.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x05-Node_JS_basic/full_server/server.js)
 
 ## Credits.
 
