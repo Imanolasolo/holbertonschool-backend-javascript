@@ -98,7 +98,7 @@ Tasks
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x06-unittests_in_js`
-*   File: [package.json](), [0-calcul.js](), [0-calcul.test.js]()
+*   File: [package.json](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/package.json), [0-calcul.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/0-calcul.js), [0-calcul.test.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/0-calcul.test.js)
 
 ### 1\. Combining descriptions
 
@@ -144,7 +144,7 @@ Tasks
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x06-unittests_in_js`
-*   File: [1-calcul.js](), [1-calcul.test.js]()
+*   File: [1-calcul.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/1-calcul.js), [1-calcul.test.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/1-calcul.test.js)
 
 ### 2\. Basic test using Chai assertion library
 
@@ -170,7 +170,7 @@ While using Node assert library is completely valid, a lot of developers prefer 
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x06-unittests_in_js`
-*   File: [2-calcul_chai.js](), [2-calcul_chai.test.js]()
+*   File: [2-calcul_chai.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/2-calcul_chai.js), [2-calcul_chai.test.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/2-calcul_chai.test.js)
 
 ### 3\. Spies
 
@@ -208,7 +208,7 @@ Spies are a useful wrapper that will execute the wrapped function, and log usefu
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x06-unittests_in_js`
-*   File: [utils.js](), [3-payment.js](), [3-payment.test.js]()
+*   File: [utils.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/utils.js), [3-payment.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/3-payment.js), [3-payment.test.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/3-payment.test.js)
 
 ### 4\. Stubs
 
@@ -239,7 +239,7 @@ Stubs are similar to spies. Except that you can provide a different implementati
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x06-unittests_in_js`
-*   File: [4-payment.js](), [4-payment.test.js]()
+*   File: [4-payment.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/4-payment.js), [4-payment.test.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/4-payment.test.js)
 
 ### 5\. Hooks
 
@@ -268,7 +268,7 @@ Hooks are useful functions that can be called before execute one or all tests in
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x06-unittests_in_js`
-*   File: [5-payment.js](), [5-payment.test.js]()
+*   File: [5-payment.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/5-payment.js), [5-payment.test.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/5-payment.test.js)
 
 ### 6\. Async tests with done
 
@@ -299,7 +299,7 @@ Look into how to support async testing, for example when waiting for the answer 
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x06-unittests_in_js`
-*   File: [6-payment_token.js](), [6-payment_token.test.js]()
+*   File: [6-payment_token.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/6-payment_token.js), [6-payment_token.test.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/6-payment_token.test.js)
 
 ### 7\. Skip
 
@@ -362,7 +362,7 @@ You will be using this file, conveniently named `7-skip.test.js`
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x06-unittests_in_js`
-*   File: [7-skip.test.js]()
+*   File: [7-skip.test.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/7-skip.test.js)
 
 ### 8\. Basic Integration testing
 
@@ -447,7 +447,7 @@ Terminal 2
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x06-unittests_in_js`
-*   File: [8-api/package.json](), [8-api/api.js](), [8-api/api.test.js]()
+*   File: [8-api/package.json](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/8-api/package.json), [8-api/api.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/8-api/api.js), [8-api/api.test.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/8-api/api.test.js)
 
 ### 9\. Regex integration testing
 
@@ -524,7 +524,7 @@ Terminal 2
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x06-unittests_in_js`
-*   File: [9-api/api.js](), [9-api/api.test.js](), [9-api/package.json]()
+*   File: [9-api/api.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/9-api/api.js), [9-api/api.test.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/9-api/api.test.js), [9-api/package.json](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/9-api/package.json)
 
 ### 10\. Deep equality & Post integration testing
 
@@ -581,7 +581,7 @@ Terminal 2
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x06-unittests_in_js`
-*   File: [10-api/api.js](), [10-api/api.test.js](), [10-api/package.json]()
+*   File: [10-api/api.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/10-api/api.js), [10-api/api.test.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/10-api/api.test.js), [10-api/package.json](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x06-unittests_in_js/10-api/package.json)
 
 ## Author(s):blue_book:
 
